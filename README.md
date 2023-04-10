@@ -4,8 +4,8 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
-$ cd mern-amazona
+$ https://github.com/PurnenduMIshra129th/Amazona.git
+
 ```
 
 ### 2. Create .env File
