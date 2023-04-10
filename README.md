@@ -10,7 +10,16 @@ $ https://github.com/PurnenduMIshra129th/Amazona.git
 
 ### 2. Create .env File
 
-- duplicate .env.example in backend folder and rename it to .env
+- Create a .env file in backend folder and give your MONGODB_URI,
+JWT_SECRET=Likun,
+PAYPAL_CLIENT_ID,
+CLOUDINARY_CLOUD_NAME,
+CLOUDINARY_API_KEY,
+CLOUDINARY_URL,
+CLOUDINARY_API_SECRET,
+GOOGLE_API_KEY,
+MAILGUN_DOMIAN,
+MAILGUN_API_KEY
 
 ### 3. Setup MongoDB
 
