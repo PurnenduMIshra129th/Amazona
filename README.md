@@ -11,7 +11,7 @@ $ https://github.com/PurnenduMIshra129th/Amazona.git
 ### 2. Create .env File
 
 - Create a .env file in backend folder and give your MONGODB_URI,
-JWT_SECRET=Likun,
+JWT_SECRET,
 PAYPAL_CLIENT_ID,
 CLOUDINARY_CLOUD_NAME,
 CLOUDINARY_API_KEY,
